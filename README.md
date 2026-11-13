@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Hamid Ali 👋</h1>
+<h1 align="center">Hi there 👋, I'm Hamid Ali — a Passionate Full Stack Developer from Pakistan 🇵🇰</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer &nbsp;|&nbsp; Founder — Hamii Scripts &nbsp;|&nbsp; Graphic Designer & Video Editor</b>
+  <b>Founder — Hamii Scripts</b> &nbsp;·&nbsp; Full-Stack Web Developer &nbsp;·&nbsp; Graphic Designer & Video Editor
 </p>
 
 <p align="center">
@@ -9,25 +9,29 @@
   <a href="https://www.youtube.com/@HamiiDevPK"><img src="https://img.shields.io/badge/YouTube-HamiiDev-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.linkedin.com/in/madni"><img src="https://img.shields.io/badge/LinkedIn-madni-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.fiverr.com/hamidalimadni"><img src="https://img.shields.io/badge/Fiverr-hamidalimadni-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"></a>
-  <a href="https://hamiiscripts.com"><img src="https://img.shields.io/badge/Hamii_Scripts-API_Platform-2563EB?style=flat-square" alt="Hamii Scripts"></a>
+  <a href="https://api.hamiiscripts.com"><img src="https://img.shields.io/badge/API-hamiiscripts.com-2563EB?style=flat-square" alt="Hamii Scripts API"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+🚀 I craft high-performance applications and automation systems using JavaScript, TypeScript, Python, C# and more.
+💡 I'm constantly exploring AI, Discord bots, and modern web technologies.
+🛠️ Founder of **Hamii Scripts** — an API platform with 17 live APIs, plus desktop tools people actually use.
+🎯 Open-source enthusiast | Focused on clean code and scalable design.
+💬 Let's collaborate and build something amazing together!
 
-I'm a developer from Pakistan with **5+ years of freelance experience** and a **5.0★ rating across 17 reviews** on Fiverr. I build real products that people actually use — APIs, automation tools, desktop apps, and the platforms around them — and I teach what I build on my YouTube channel **HamiiDev**.
+🔭 **Right now:** building **DarkBox** (Windows folder locker — C# + WebView2 + AES-256) and growing the **Hamii Scripts** API platform. I also teach what I build on YouTube (**HamiiDev**) — Python, Discord bots, AI agents and web development.
 
-- 🔭 Right now I'm building **DarkBox** — a Windows folder locker (C# + WebView2 + AES-256) — and the **Hamii Scripts** API platform (17 live APIs: Free Fire tools, wallets, profiles and more).
-- 🌱 I work mostly in **C#, Python, Node.js and JavaScript** — APIs, Flask backends, automation and scraping are my home turf.
-- 🎬 I also do professional video editing and graphic design, and I run a YouTube channel teaching Python, Discord bots and web development.
-- 💬 Ask me about APIs, automation, desktop apps, or turning an idea into a shipped product.
+---
 
-### 🛠️ Tech Stack
+### 📊 GitHub Stats
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,nodejs,html,css,git,github,visualstudio,vscode,ps,pr&theme=light" alt="Tech stack">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamiiscripts&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiiscripts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
+
+---
 
 ### 🚀 Featured Projects
 
@@ -40,21 +44,30 @@ I'm a developer from Pakistan with **5+ years of freelance experience** and a **
 | **Hamii Manager** | Game-account control center (manager.hamiiscripts.com) | Node.js |
 | **Discord Like Bot** | Automated likes with queue, panel UX and daily schedule | Python, Discord API |
 
-### 📺 YouTube — HamiiDev
+---
 
-I post coding courses, trending AI agents, Python projects and my own tools.  
-👉 https://www.youtube.com/@HamiiDevPK
-
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamiiscripts&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiiscripts&layout=compact&hide_border=true" alt="Top languages">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,dotnet,nodejs,git,github,vscode,visualstudio,figma,ps&theme=dark" alt="Tech Stack">
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="https://hamiiscripts.com"><img src="https://img.shields.io/badge/Website-hamiiscripts.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.youtube.com/@HamiiDevPK"><img src="https://img.shields.io/badge/YouTube-HamiiDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/madni"><img src="https://img.shields.io/badge/LinkedIn-madni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.fiverr.com/hamidalimadni"><img src="https://img.shields.io/badge/Fiverr-hamidalimadni-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <a href="mailto:hamidalimadni05@gmail.com"><img src="https://img.shields.io/badge/Gmail-hamidalimadni05-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
 
 <p align="center">
   <i>“Ship it. Fix it live. Make it better tomorrow.”</i><br>
-  📬 <b>hamidali@hamiiscripts.com</b> &nbsp;·&nbsp; 🌐 <a href="https://hamiiscripts.com">hamiiscripts.com</a>
+  📬 <b>hamidali@hamiiscripts.com</b> &nbsp;·&nbsp; 🌐 <a href="https://hamiiscripts.com">hamiiscripts.com</a> &nbsp;·&nbsp; 🔌 <a href="https://api.hamiiscripts.com">api.hamiiscripts.com</a><br>
+  ⭐ 5.0 rated freelancer — 17 reviews on Fiverr
 </p>
